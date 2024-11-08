@@ -4483,11 +4483,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\source\\Library\\Library\\LibraryCorner.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Library2\\Library\\LibraryCorner.csproj",
       "projectName": "LibraryCorner",
-      "projectPath": "D:\\source\\Library\\Library\\LibraryCorner.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\Library2\\Library\\LibraryCorner.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\source\\Library\\Library\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\Library2\\Library\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
